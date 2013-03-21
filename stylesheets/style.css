@@ -6,6 +6,14 @@ body {
     text-align: center;
 }
 
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
 ul.unstyled {
     list-style-type: none;
     display: inline;
