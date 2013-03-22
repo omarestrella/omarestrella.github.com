@@ -1,5 +1,5 @@
 body {
-    font-family: "Ubuntu", "Helvetica Neue", helvetica, arial, sans-serif;
+    font-family: "Open Sans", "Helvetica Neue", helvetica, arial, sans-serif;
 }
 
 .container {
@@ -23,6 +23,11 @@ ul.unstyled {
 ul.unstyled li {
     display: inline;
     padding: 0 10px 0 0;
+}
+
+ul.unstyled li:last-child {
+    display: inline;
+    padding: 0;
 }
 
 ul.unstyled li img {
